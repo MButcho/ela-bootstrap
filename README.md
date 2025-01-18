@@ -12,10 +12,10 @@
 2. ```shell
    mkdir ~/bootstrap && cd ~/bootstrap
    ```
-3. ```shell
+3. To enable the download, please contact @MButcho via Elastos Discord or Telegram
+   ```shell
    wget https://node.elasafe.com/data.tar.gz
-    ```
-    *(to enable the download, please contact @MButcho via Elastos Discord or Telegram)*
+   ```
 4. ```shell
    tar -xvf data.tar.gz
    ```
@@ -56,7 +56,7 @@
 
 ## Create your own bootstrap
 
-*Remember, the node must be working correctly*
+_Remember, the node must be working correctly_
 
 1. ```shell
    ~/node/node.sh ela stop
@@ -71,3 +71,9 @@
    ~/node/node.sh ela start
    ```
 5. Your boostrap is available in ~/node/ela/elastos/data.tar.gz
+
+# Donations
+
+Any donation to BTC LN address **tipme@walletofsatoshi.com** or ELA address **EJfW2mCdZPVxHVEv891xDop7hJAsYbKH5R** will be appreciated.
+
+### Thank you and enjoy!
