@@ -14,10 +14,10 @@
    ```
 3. To enable the download, please contact @MButcho via Elastos Discord or Telegram
    ```shell
-   wget https://node.elasafe.com/data.tar.gz
+   wget https://node.elasafe.com/ela.data.tar.gz
    ```
 4. ```shell
-   tar -xvf data.tar.gz
+   tar -xvf ela.data.tar.gz
    ```
 5. ```shell
    mv ~/node/ela/elastos/data ~/node/ela/elastos/data_old
@@ -65,15 +65,15 @@ _Remember, the node must be working correctly_
    cd ~/node/ela/elastos
    ```
 3. ```shell
-   tar -czvf data.tar.gz data
+   tar -czvf ela.data.tar.gz data
    ```
 4. ```shell
    ~/node/node.sh ela start
    ```
-5. Your boostrap is available in ~/node/ela/elastos/data.tar.gz
+5. Your boostrap is available in ~/node/ela/elastos/ela.data.tar.gz
 
 # Donations
 
-Any donation to BTC LN address **tipme@walletofsatoshi.com** or ELA address **EJfW2mCdZPVxHVEv891xDop7hJAsYbKH5R** will be appreciated.
+Any donation to BTC LN address **tipme@walletofsatoshi.com** will be appreciated.
 
 ### Thank you and enjoy!
